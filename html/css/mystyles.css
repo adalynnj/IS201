@@ -1,0 +1,66 @@
+/*Adalynn Jones 4/20/22*/ 
+aboutme {
+    font-family: cursive;  
+}
+
+text {
+    font-family: fantasy;
+}
+
+color {
+    color: blue; 
+}
+
+color2 {
+    color: purple;
+}
+
+.headere {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px;
+}
+
+.leftmenue {
+    top:114px;
+    left: 5px;
+    width: 100px;
+    bottom: 64px;
+    z-index: 1;
+    padding-top: 60px;
+    border-right: solid 1px;
+}
+
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114;
+}
+
+.rightmenue {
+    top: 114px;
+    bottom: 64px;
+    right: 5px;
+    width: 100px;
+    padding-left: 10px;
+    border-left: solid 1px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size 8px;
+    text-align: center;
+    position: fixed;
+}
+
+.subbheader {
+    float: right;
+    padding-top: 3px;
+}
